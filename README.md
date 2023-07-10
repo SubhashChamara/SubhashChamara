@@ -84,7 +84,8 @@ Here are some of the technologies and frameworks I work with:
 ![ubuntu](https://github.com/SubhashChamara/SubhashChamara/assets/112160411/0529aa4a-56cd-42a3-9d66-cdfb2c1528a4)
 ![windows](https://github.com/SubhashChamara/SubhashChamara/assets/112160411/d05b8900-ac48-460a-81b1-8c99c68a006b)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SubhashChamara&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhashChamara&layout=compact)
 
 Feel free to explore my repositories to see more of my work!
 
