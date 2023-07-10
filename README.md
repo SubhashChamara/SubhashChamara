@@ -1,17 +1,41 @@
+<div align="center">
+
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Subhash Chamara Udayanaga, a passionate Fullstack Software Development.
+Welcome to my GitHub profile! I'm [Your Name], a passionate [Your Profession] with expertise in [Your Tech Stacks].
+
+## Contact Me
+
+Feel free to connect with me on the following platforms:
+
+[![LinkedIn](logos/linkedin-logo.png)](https://www.linkedin.com/in/your-linkedin-url)
+[![Twitter](logos/twitter-logo.png)](https://twitter.com/your-twitter-handle)
+[![Email](logos/email-logo.png)](mailto:your-email@example.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## About Me
 
-I love working with the following languages and technologies:
-
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)    
-- ![ECMAScript](https://img.shields.io/badge/-ECMAScript-F7DF1E?logo=javascript&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+I love working with the following languages and technologies: 
+![Java](logos/java-logo.png), 
+![ECMAScript](logos/ecmascript-logo.png), 
+![TypeScript](logos/typescript-logo.png), 
+![HTML](logos/html-logo.png), 
+![CSS](logos/css-logo.png), 
+![SQL](logos/sql-logo.png).
 
 ## Tech Stacks
 
@@ -19,67 +43,59 @@ Here are some of the technologies and frameworks I work with:
 
 ### Java and Java EE
 
-- ![Java SE](https://img.shields.io/badge/-Java%20SE-007396?logo=java&logoColor=white)
-- ![Java EE](https://img.shields.io/badge/-Java%20EE-007396?logo=java&logoColor=white)
-- ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?logo=java&logoColor=white)
+![Java SE](logos/java-se-logo.png), 
+![Java EE](logos/java-ee-logo.png), 
+![JavaFX](logos/javafx-logo.png).
 
 ### Spring Framework
 
-- ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-- ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?logo=spring-data&logoColor=white)
-- ![Spring Web](https://img.shields.io/badge/-Spring%20Web-6DB33F?logo=spring&logoColor=white)
+![Spring](logos/spring-logo.png), 
+![Spring Boot](logos/spring-boot-logo.png), 
+![Spring Data JPA](logos/spring-data-jpa-logo.png), 
+![Spring Web](logos/spring-web-logo.png).
 
 ### Front-end
 
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
-- ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
-- ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Angular](logos/angular-logo.png), 
+![Node.js](logos/nodejs-logo.png), 
+![jQuery](logos/jquery-logo.png), 
+![npm](logos/npm-logo.png), 
+![SCSS](logos/scss-logo.png), 
+![Bootstrap](logos/bootstrap-logo.png).
 
 ### Other Tools and Technologies
 
-- ![Lombok](https://img.shields.io/badge/-Lombok-BC5F0A?logo=lombok&logoColor=white)
-- ![Java Bean Validation](https://img.shields.io/badge/-Java%20Bean%20Validation-F50?logo=java&logoColor=white)
+![Lombok](logos/lombok-logo.png), 
+![Java Bean Validation](logos/java-bean-validation-logo.png).
 
 ## Build Tools and IDEs
 
-- ![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apache-maven&logoColor=white)
-- ![Parcel](https://img.shields.io/badge/-Parcel-FBCA04?logo=parcel&logoColor=white)
-- ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Maven](logos/maven-logo.png), 
+![Parcel](logos/parcel-logo.png), 
+![IntelliJ IDEA](logos/intellij-idea-logo.png), 
+![VS Code](logos/vscode-logo.png).
 
 ## Databases
 
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](logos/mysql-logo.png), 
+![MongoDB](logos/mongodb-logo.png).
 
 ## Version Control
 
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Git](logos/git-logo.png), 
+![GitHub](logos/github-logo.png).
 
 ## Platform and Cloud Computing
 
-- ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
-- ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-- ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Apache Tomcat](logos/apache-tomcat-logo.png), 
+![Postman](logos/postman-logo.png), 
+![GCP](logos/gcp-logo.png).
 
 ## Operating Systems
 
-- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-- ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Ubuntu](logos/ubuntu-logo.png), 
+![Windows](logos/windows-logo.png).
 
 Feel free to explore my repositories to see more of my work!
 
-## Contact Me
-
-You can connect with me on the following platforms:
-
-- LinkedIn: 
-- Twitter:
-- Email: 
-
-Let's connect and collaborate!
+</div>
