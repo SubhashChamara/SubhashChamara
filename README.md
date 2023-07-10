@@ -8,23 +8,22 @@
 
 
   <a href="www.linkedin.com/in/subhash-chamara-udayanga" target="_blank">
-    <img src="https://github.com/SubhashChamara/SubhashChamara/assets/112160411/1215d109-f793-41c0-855a-88abec91f6d6" alt="linkedin logo"  />
+    <img src="https://github.com/SubhashChamara/SubhashChamara/assets/112160411/1215d109-f793-41c0-855a-88abec91f6d6" alt="linkedin logo"/>
   </a>
-
-   <a href="https://discord.com/channels/Subhash#5290" target="_blank">
-    <img src="https://github.com/SubhashChamara/SubhashChamara/assets/112160411/e66a8f6f-ed26-410f-b050-b24736bbf241"  alt="discord logo"  />
+  
+  <a href="https://discord.com/channels/Subhash#5290" target="_blank">
+    <img src="https://github.com/SubhashChamara/SubhashChamara/assets/112160411/e66a8f6f-ed26-410f-b050-b24736bbf241" alt="hackerrank logo"  />
   </a>
   
   
   <a href="https://twitter.com/chamara_subhash?t=e7Qt_Z5c0eEg426tqdXxrQ&s=09" target="_blank">
    <img src="https://github.com/SubhashChamara/SubhashChamara/assets/112160411/e836faa2-1ce3-4f47-9388-8d26f4e43035" alt="twitter logo"/>
-  </a>
+    </a>
     
+  
   <a href="mailto:Udayanga.subash@gmail.com">
     <img src="https://github.com/SubhashChamara/SubhashChamara/assets/112160411/5f1d9978-69ed-4001-b4e3-ed3f11b9d99a" alt="gmail logo"  />
   </a>
-
-
 
 
 
