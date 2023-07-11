@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi there! I'm Subhash Chamara Udayanaga  👋
+# Hi there! I'm Subhash Chamara Udayanga  👋
 
 ### Software Developer
+
+![ezgif com-resize](https://github.com/SubhashChamara/SubhashChamara/assets/112160411/2afe8a85-8fab-4f3e-b4bd-d1d7f969277c)
 
 ## Contact Me
 
