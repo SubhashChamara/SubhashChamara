@@ -2,7 +2,7 @@
 
 # Hi there! I'm Subhash Chamara Udayanga  👋
 
-### Software Developer
+### Fullstack Software Engineer
 
 ![ezgif com-resize](https://github.com/SubhashChamara/SubhashChamara/assets/112160411/2afe8a85-8fab-4f3e-b4bd-d1d7f969277c)
 
@@ -26,7 +26,7 @@
   </a>
 
 ## About Me
-I'm Subhash Chamara Udayanga,Software Developer with a focus on building reliable and scalable applications. I'm passionate about problem-solving and enjoy working on diverse projects. My goal is to create impactful software solutions that make a difference.
+I'm Subhash Chamara Udayanga,Fullstack Software Engineer with a focus on building reliable and scalable applications. I'm passionate about problem-solving and enjoy working on diverse projects. My goal is to create impactful software solutions that make a difference.
 
 I have a solid background in software engineering and a knack for learning new technologies. I thrive in collaborative environments and believe in continuous learning and growth. With strong coding skills and attention to detail, I strive to deliver high-quality software.
 
